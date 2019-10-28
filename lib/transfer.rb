@@ -37,8 +37,4 @@ class Transfer
 
 
 
-=======
->>>>>>> 06a4616eb222ab8720c5b32f141aff6b103af54b
-
-
 end
